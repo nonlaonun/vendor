@@ -8,6 +8,11 @@ function Cashflow() {
     <div>
       Cash flow statement
       <p>Symbol =  {symbol}</p>
+      Cash flow statement
+      Cash flow statement
+      Cash flow statement
+      Cash flow statement
+      Cash flow statement
     </div>
   )
 }
